@@ -13,7 +13,7 @@ module.exports = {
 	 * @default "MyTimeBot"
 	 * @type string
 	 */
-	name: "Cosmic Time Bot",
+	name: "729 Time Bot",
 	/**
 	 * @desc Global bot command prefix
 	 * @default "?"
