@@ -30,6 +30,6 @@ module.exports = {
 	 * @default "\uD83D\uDD52 Discord Time Bot"
 	 * @type string
 	 */
-	title: " Cosmic Time Bot"
+	title: " 729 Time Bot"
 };
 bot.login(process.env.token);
